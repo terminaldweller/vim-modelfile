@@ -30,4 +30,4 @@ Pluging 'brainwo/vim-modelfile'
 
 ## License
 
-License under The Unlicense. See [License](./LICENSE) file.
+Licensed under The Unlicense. See [LICENSE](./LICENSE) file.
